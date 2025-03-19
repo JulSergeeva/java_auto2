@@ -1,1 +1,1 @@
-# java_auto2
+# java_auto
